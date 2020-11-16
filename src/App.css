@@ -1,5 +1,13 @@
 .App {
   text-align: center;
+  padding-top: 10vh;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+}
+
+video, img {
+  margin: 20px 0;
 }
 .App code {
   background: #FFF3;
